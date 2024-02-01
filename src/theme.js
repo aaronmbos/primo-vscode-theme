@@ -451,6 +451,7 @@ function getTheme({ theme, name }) {
       {
         scope: ["comment", "punctuation.definition.comment", "string.comment"],
         settings: {
+          fontStyle: "italic",
           foreground: lightDark(scale.gray[5], scale.gray[3]),
         },
       },
@@ -463,7 +464,7 @@ function getTheme({ theme, name }) {
       {
         scope: ["constant"],
         settings: {
-          foreground: lightDark(scale.red[5], scale.red[3]),
+          foreground: lightDark(scale.green[6], scale.green[1]),
         },
       },
       {

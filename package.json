@@ -2,7 +2,7 @@
   "name": "primo-vscode-theme",
   "displayName": "Primo Theme",
   "description": "Primo - A slimmed down version of GitHub's theme for VS Code still relying on the Primer design system.",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "publisher": "aaronmbos",
   "license": "MIT",
   "icon": "icon.png",
